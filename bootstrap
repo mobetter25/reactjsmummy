@@ -1,0 +1,124 @@
+<link href="/81/css/common.css" rel="stylesheet" type="text/css" media="screen" />
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<!-- call google fonts, then run script to replace comic-sans on mobile viewports || attribute data-mobile="true" should load the stylesheet only at 768px and below -->
+<link href='https://fonts.googleapis.com/css?family=Short+Stack' rel='stylesheet' type='text/css' data-mobile="true" media="screen and (max-width: 767px)">
+<script src="/js/replace-font.js"></script>
+
+<!-- local css files -->
+<link href="/81/css/custom-bootstrap.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/81/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+<link rel="stylesheet" href="/81/css/gray.css" type="text/css">
+
+<!-- Make HTML5 work in older IE versions -->
+<!--[if lt IE 9]>
+<script src="/js/html5.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+	</head>
+	<body class="page-home type-standard logo template-mobile template-gray">
+<div class="container-fluid">
+	<div class="background-container">
+        <!-- Header row -->
+        <div class="row main-header">
+            <div class="col-lg-12">
+            <!-- display member logo if exists -->
+                            <a href="/"><img alt="member logo"  src="/images/logo.jpg" id="member-logo" /></a>
+            
+                <!-- Business Name -->
+                <div id="business">Yahweh&#039;s Hands, LLC</div>
+                <!-- Tagline -->
+                                    <div id="tagline">
+                    Assisting you on your Healing Journey                    </div>
+                                
+                <!-- if social media display is tagline -->
+				                <!-- end social-tagline -->
+            
+            </div> <!-- end col-lg-12 -->
+            
+        </div> <!-- end header row -->
+    
+        <!-- main outer row -->
+        <div class="row main-background"> 
+            
+            <!-- col for left vertical nav  -->
+            <div class="col-sm-3">
+                <div class="sidebar-nav">
+                    <div class="navbar navbar-default" role="navigation">
+                        <div class="navbar-header">
+                            <!-- 3-line menu button -->
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            </button>
+                            <span class="visible-xs navbar-brand">Menu</span>
+                        </div>
+                        <!-- begin collapsible nav links -->
+                        <div class="navbar-collapse collapse sidebar-navbar-collapse">
+                            <ul class="nav navbar-nav">
+                                                                   <li><a href="/home" class="activenav">Home</a></li>
+                                                                    <li><a href="/services-and-rates">Services and Rates</a></li>
+                                                                    <li><a href="/access-bars">Access Bars</a></li>
+                                                                    <li><a href="/cranialsacral-therapy">Cranial-Sacral Therapy</a></li>
+                                                                    <li><a href="/healing-touch">Healing Touch</a></li>
+                                                                    <li><a href="/oncology-massage">Oncology Massage</a></li>
+                                                                    <li><a href="/lymphatic-drainage-massage">Lymphatic Drainage Massage</a></li>
+                                                                    <li><a href="/reflexology">Reflexology</a></li>
+                                                                    <li><a href="/reiki">Reiki</a></li>
+                                                                    <li><a href="/hours-and-scheduling">Hours and Scheduling</a></li>
+                                                                    <li><a href="/benefits-of-massage">Benefits of Massage</a></li>
+                                                                    <li><a href="/frequently-asked-questions">Frequently Asked Questions</a></li>
+                                                                    <li><a href="/contact-information">Contact Information</a></li>
+                                                                    <li><a href="/client-forms">Client Forms</a></li>
+                                                                    <li><a href="/philosophy">Philosophy</a></li>
+                                                                    <li><a href="/testimonials">Testimonials</a></li>
+                                                                    <li><a href="/gift-certificates">Gift Certificates</a></li>
+                                                                    <li><a href="/body-sense-magazine">Body Sense Magazine</a></li>
+                                                            </ul>
+                        </div><!-- end collapsible nav links -->
+
+                        <!-- if social media display is under menu -->
+						                        <!-- end social-menu -->
+            
+                        <!-- specials box non-mobile -->
+                                                
+                        <!-- Member Seal -->
+                                                    <div id="abmp-logo">
+                                <a href="http://www.abmp.com" target="_blank"><img class="abmp-logo-image" src="/img/abmp-certified-logo.png" alt="Associated Bodywork &amp; Massage Professionals" /></a>
+                            </div>
+                                                
+                    </div>
+                </div> <!-- close sidebar nav -->
+            </div> <!-- end left nav column -->
+            
+           <!-- if social media display is MOBILE menu --> 
+						<!-- end social-menu-mobile -->
+            
+            <!-- begin inner wide content area -->
+            <div class="col-sm-9 central-container">
+            
+                <div class="title-social-wrapper"> 
+					<!-- Main Content Title -->
+                    <div class="title">
+                        Home                    </div>
+                                
+                    <!-- if social media display is right content header -->
+                     
+                        <div class="social-right">
+                                
+
+<a href="http://Yahwehs Hands" target="_blank" title="Facebook"><img src="/81/img/facebook.jpg" alt="Facebook" /></a>
+
+ 
+                            </div> 
+                     
+                    <!-- end social-right -->
+                </div> <!-- end title-social-wrapper -->
