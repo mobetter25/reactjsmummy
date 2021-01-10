@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html id="scoped-css" class="not-logged-in no-js commerce locale-en">
+
+  <head prefix="fb: http://www.facebook.com/2008/fbml og: http://opengraphprotocol.org/schema/">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Marian Georgiou</title>
+
+
+
+      <meta name="keywords" content="&lt;meta name=&quot;propeller&quot; content=&quot;c4ee1901f001f5a87d59d5ce366cac46&quot; /&gt;" />
+
+  <meta name="google-site-verification" content="5qgBdBoGR-qJn1qERfnZfjDjAn7RtM5r2U-6Pq81bEc" />
+  <meta name="propeller" content="c4ee1901f001f5a87d59d5ce366cac46" />
+
+
+    <link rel="shortcut icon" type="image/x-icon" href="//imagery.zoogletools.com/u/140349/c9145635e8f7bf7a330f99c0fba2c9d5a31d5429/original/12299126-10205523187419810-3311764968345551709-n.jpg/!!/b%3AW1sicmVzaXplIixbNjQsNjQsIl4iXV0sWyJleHRyYWN0Iix7IndpZHRoIjo2NCwiaGVpZ2h0Ijo2NCwiZ3Jhdml0eSI6IkNlbnRlciJ9XV0%3D.ico" />
+
+<meta name="viewport" content="width=device-width" />
+
+
+<link rel="stylesheet" media="screen" href="//assets-production.bndzgl.com/assets/usersite/application-5e97bc6c7d985bc99fc483204426daab459576c619f72222c95445b437cc8a07.css" />
+    <link href="https://s3.amazonaws.com/content.sitezoogle.com/u/140349/theme_configs/12/561534.css?1610038336" rel="stylesheet" type="text/css" />
+
+
+<link rel="stylesheet" media="print" href="//assets-production.bndzgl.com/assets/usersite_print-898d57949af0ad2bc4f547f83dd6ff3afcc8a33f1513e732d597872e7fa68553.css" />
+
+
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","name":"Marian Georgiou","url":"https:\/\/www.georgioumarian.com\/"}</script>
+
+
+
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+<script src="//assets-production.bndzgl.com/assets/usersite/application-527615968ab73500839e2effe9e2a162d0942238e5a029814031a9f17ddd5aaf.js"></script>
+<script src="//assets-production.bndzgl.com/packs/js/usersite-071ace42ea90740c4834.js" async="async"></script>
+
+
+
+
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="8w9XTcMICQoZvibQRTI0VkwnhaO9bh9AxsvrYBAH9ZVrrE/nN2PJkjaN+YTHBG2Rp2waqnCdyzr3NEA/rX3i3g==" />
+<meta name="title" content="Marian Georgiou" />
+<meta property="og:title" content="Marian Georgiou" />
+<meta name="twitter:title" content="Marian Georgiou" />
+<meta name="description" content="Home page of Marian Georgiou, a pop artist from Athens, Greece. Marian Georgiou, the well known Greek-Cypriot recording artist/songwriter crosses over the language and international boundaries performing songs in Greek, Italian and English. Marian is" />
+<meta property="og:description" content="Home page of Marian Georgiou, a pop artist from Athens, Greece. Marian Georgiou, the well known Greek-Cypriot recording artist/songwriter crosses over the language and international boundaries performing songs in Greek, Italian and English. Marian is" />
+<meta name="twitter:description" content="Home page of Marian Georgiou, a pop artist from Athens, Greece. Marian Georgiou, the well known Greek-Cypriot recording artist/songwriter crosses over the language and international boundaries performing songs in Greek, Italian and English. Marian is" />
+<meta name="image" content="https://imagery.zoogletools.com/u/140349/ba4c0778ccb3c6c55d50d01f242b240eb0d9166f/original/12299126-10205523187419810-3311764968345551709-n.jpg" />
+<meta property="og:image" content="https://s3.amazonaws.com/content.sitezoogle.com/u/140349/ba4c0778ccb3c6c55d50d01f242b240eb0d9166f/original/12299126-10205523187419810-3311764968345551709-n.jpg" />
+<meta name="image:width" content="960" />
+<meta name="image:height" content="960" />
+<meta property="og:image:width" content="960" />
+<meta property="og:image:height" content="960" />
+<meta name="twitter:image" content="https://imagery.zoogletools.com/u/140349/ba4c0778ccb3c6c55d50d01f242b240eb0d9166f/original/12299126-10205523187419810-3311764968345551709-n.jpg" />
+<meta name="url" content="https://www.georgioumarian.com/home--2" />
+<meta property="og:url" content="https://www.georgioumarian.com/home--2" />
+<meta name="twitter:card" content="summary_large_image" />
+
+
+<link rel="canonical" href="https://www.georgioumarian.com/home--2">
+
+
+
+            <style class="page-styles">
+              			.website-page-home--2 .first-section-background-color {
+				background-color: #10394f !important;
+			}
+
+			.website-page-home--2 .first-section-before-border-bottom:before {
+				border-bottom-color: #10394f !important;
+			}
+
+			.website-page-home--2 .first-section-after-border-bottom:after {
+				border-bottom-color: #10394f !important;
+			}
+
+            </style>
+
+
+
+
+
+
+
+
+
+  <meta name="turbolinks-visit-control" content="reload">
+
+
+    
+</head>
+  <body class="theme-style-200 theme-style-200-d has-swmp bz not-intro-page" data-slug="home--2" data-turbolinks="false" data-controller="live-chat">
+
+    
+
+    
+      
+      <div class="usersite-container-wrap">
+  <div id="usersite-container-inner-wrap">
+    <div id="usersite-container">
+        		<nav id="main-nav" class="mobile"><ul class="mobile list balance_5 top menu-length-10"><li class="top selected"><div><a class="top" href="/home--2">Home</a></div></li><li class="top"><div><a class="top no-pjax" href="/main">Main</a></div></li><li class="top"><div><a class="top" href="/about">About</a></div></li><li class="has-submenu top"><div><a class="top" href="/videos">Videos</a></div><ul><li class="subpage"><div><a class="navigate-to-section subpage" data-page-id="516697" href="/videos#roma-atene-marian-georgiou-ft-francesco-boccia">Roma - Atene (Marian Georgiou ft. francesco boccia)</a></div></li><li class="subpage"><div><a class="navigate-to-section subpage" data-page-id="516697" href="/videos#vero-marian-georgiou-ft-josh-page-forte-tenors">Vero - Marian Georgiou Ft. Josh Page (Forte tenors)</a></div></li><li class="subpage"><div><a class="navigate-to-section subpage" data-page-id="516697" href="/videos#io-volo-marian-georgiou">Io volo - marian georgiou</a></div></li><li class="subpage"><div><a class="navigate-to-section subpage" data-page-id="516697" href="/videos#abbracciami-greek-italian-version-feat-roberto-casalino">Abbracciami - ΑΥΤΟ ΕΙΝΑΙ ΑΓΑΠΗ (Greek-Italian version)  Feat. Roberto Casalino</a></div></li><li class="subpage"><div><a class="navigate-to-section subpage" data-page-id="516697" href="/videos#marian-georgiou">ΤΕΛΟΣ &amp; ΑΡΧΗ - Marian georgiou</a></div></li><li class="subpage"><div><a class="navigate-to-section subpage" data-page-id="516697" href="/videos#november-the-english-version-of-the-italian-song-novembre">November (The English version of the Italian song &quot;Novembre&quot;)</a></div></li></ul></li><li class="top"><div><a class="top" href="/shows">Shows</a></div></li><li class="top"><div><a class="top" href="/photos">Photos</a></div></li><li class="has-submenu top"><div><a class="top" href="/store">Store</a></div><ul><li class="subpage"><div><a class="" href="/t-shirts">T-shirts</a></div></li></ul></li><li class="top"><div><a class="top no-pjax" href="/contact-to-work-with-us">Contact to work with us</a></div></li><li class="top"><div><a class="top" href="/forum">Forum</a></div></li><li class="top"><div><a class="top" href="/interviews">Interviews</a></div></li></ul></nav>
+
+		<div data-pjax-container>
+			
+        
+  <div id="page-root" class="landing-page display-type-text website-page-home--2 has-swmp has-cta has-section-styles" data-page-id="986618" data-slug="home--2">
+    <div id="container">
+	<header id="page-header">
+		
+<div id="site-wide-header" class="site-wide-feature-area"><div class="zoogle-content block" data-arrangement-id="737114"><div class="zoogle-columns zoogle-columns-1 zoogle-columns-100 default-section-style padding-none title-alignment-left block block-row layout_full" data-row-id="2901034"><div class="zoogle-columns-inner site-wrap"><div class="zoogle-column zoogle-column-1-of-1 col_1_of_1 block layout_full" data-column-id="3137339"></div></div></div></div></div>
+
+
+
+		<div id="page-media">
+			<div class="page-media-wrap">
+				  <div class="page-photos page-media-container display-time-medium transition-speed-medium transition-type-fade">
+  <div class="page-photo page-media page-photo-background" style="background-image: url(&#39;//imagery.zoogletools.com/u/140349/deb8197b0748902f87fbf26b102d9d2c3711db04/original/c-32.jpg/!!/b%3AW1sicmVzaXplIiwxNTAwXSxbIm1heCJdLFsid2UiXV0%3D.jpg&#39;); background-position: 41% 0%;"></div>
+<div class="page-photo page-media page-photo-background" style="background-image: url(&#39;//imagery.zoogletools.com/u/140349/2bccd2f2bc9b7080656aab98fbe29d823e013ae4/original/12274649-10205544942443672-3044164803976154761-n.jpg/!!/b%3AW1sicmVzaXplIiwxNTAwXSxbIm1heCJdLFsid2UiXV0%3D.jpg&#39;); background-position: 48% 33%;"></div>
+<div class="page-photo page-media page-photo-background" style="background-image: url(&#39;//imagery.zoogletools.com/u/140349/72932d612be30ef1bb17937a13a9245ff3a9b4e4/original/mariangeorgiou-cover.jpg/!!/b%3AW1sicmVzaXplIiwxNTAwXSxbIm1heCJdLFsid2UiXV0%3D.jpg&#39;); background-position: 49% 9%;"></div>
+<div class="page-photo page-media page-photo-background" style="background-image: url(&#39;//imagery.zoogletools.com/u/140349/0442d0df78494d4a3117e3aa717e0ae8d86db27c/original/60237933-654566158347470-8394630914243559424-n.jpg/!!/b%3AW1siZXh0cmFjdCIseyJsZWZ0IjowLCJ0b3AiOjIwLCJ3aWR0aCI6MTAxOSwiaGVpZ2h0Ijo1NjB9XSxbInJlc2l6ZSIsMTYwMF0sWyJtYXgiXSxbIndlIl1d.jpg&#39;); background-position: 38% 46%;"></div>
+<div class="page-photo page-media page-photo-background" style="background-image: url(&#39;//imagery.zoogletools.com/u/140349/0eb36525393a13a71138791b882b35af9caf392b/original/3585863.jpg/!!/b%3AW1siZXh0cmFjdCIseyJsZWZ0IjotOSwidG9wIjoyMDgsIndpZHRoIjo4ODMsImhlaWdodCI6NDg1fV0sWyJyZXNpemUiLDE2MDBdLFsibWF4Il0sWyJ3ZSJdXQ%3D%3D.jpg&#39;); background-position: 50% 50%;"></div>
+
+</div>
+
+
+				<div class="site-wrap" id="title-wrap" data-apply-textfit="false">
+					<h1 id="page-title" class="page-title display-type-text text-fit"><a href="/home--2"><span class="outer" data-max-font-size="60"><span class="inner">marian georgiou</span></span></a></h1>
+				</div>
+			</div>
+		</div>
+
+		<div class="nav-bar">
+			<div class="site-wrap">
+				    <span id="toggle-mobile-menu" class="toggle-mobile-menu"><a href="javascript:"><i class="icon-hamburger"></i></a></span><nav id="main-nav" class="non-mobile"><ul class="horizontal list balance_5 top menu-length-10"><li class="top"><div><a class="top" href="/home--2">Home</a></div></li><li class="top"><div><a class="top no-pjax" href="/main">Main</a></div></li><li class="top"><div><a class="top" href="/about">About</a></div></li><li class="has-submenu top selected"><div><a class="top" href="/videos">Videos</a></div><ul><li class="subpage"><div><a class="navigate-to-section subpage" data-page-id="516697" href="/videos#roma-atene-marian-georgiou-ft-francesco-boccia">Roma - Atene (Marian Georgiou ft. francesco boccia)</a></div></li><li class="subpage"><div><a class="navigate-to-section subpage" data-page-id="516697" href="/videos#vero-marian-georgiou-ft-josh-page-forte-tenors">Vero - Marian Georgiou Ft. Josh Page (Forte tenors)</a></div></li><li class="subpage"><div><a class="navigate-to-section subpage" data-page-id="516697" href="/videos#io-volo-marian-georgiou">Io volo - marian georgiou</a></div></li><li class="subpage"><div><a class="navigate-to-section subpage" data-page-id="516697" href="/videos#abbracciami-greek-italian-version-feat-roberto-casalino">Abbracciami - ΑΥΤΟ ΕΙΝΑΙ ΑΓΑΠΗ (Greek-Italian version)  Feat. Roberto Casalino</a></div></li><li class="subpage"><div><a class="navigate-to-section subpage" data-page-id="516697" href="/videos#marian-georgiou">ΤΕΛΟΣ &amp; ΑΡΧΗ - Marian georgiou</a></div></li><li class="subpage"><div><a class="navigate-to-section subpage" data-page-id="516697" href="/videos#november-the-english-version-of-the-italian-song-novembre">November (The English version of the Italian song &quot;Novembre&quot;)</a></div></li></ul></li><li class="top"><div><a class="top" href="/shows">Shows</a></div></li><li class="top"><div><a class="top" href="/photos">Photos</a></div></li><li class="has-submenu top"><div><a class="top" href="/store">Store</a></div><ul><li class="subpage"><div><a class="" href="/t-shirts">T-shirts</a></div></li></ul></li><li class="top"><div><a class="top no-pjax" href="/contact-to-work-with-us">Contact to work with us</a></div></li><li class="top"><div><a class="top" href="/forum">Forum</a></div></li><li class="top"><div><a class="top" href="/interviews">Interviews</a></div></li></ul></nav>
+
+			</div>
+		</div>
+	</header>
+
+	<div id="content-wrap">
+		<div id="content">
+			<div class="zoogle_flash">
+</div>
+
+<section id="cart" class="cart hide"></section>
+
+<div id="page-content-wrap"><div class="zoogle-content block" data-arrangement-id="1092791"><div class="zoogle-columns zoogle-columns-1 zoogle-columns-100 style-section-style-1 padding-none title-alignment-center has-title block block-row layout_full zoogle-columns-first" data-row-id="4005601"><div class="zoogle-columns-inner site-wrap"><h2 class="subtitle-wrap heading-primary row-title"><span class="subtitle" data-binding-ref="row-title" data-action="input-&gt;binding#update" data-binding-to="row-title-input:value" contenteditable="false">Vero - Marian Georgiou Feat Josh Page</span></h2><div class="zoogle-column zoogle-column-1-of-1 col_1_of_1 block layout_full" data-column-id="4515074"><div class="zoogle-feature block layout_full" data-block-id="4144890"><section class="feature video_feature " data-feature-id="239058">    <div class="video responsive youtube" data-controller="zoogle-video" data-action="message@window-&gt;zoogle-video#handleVimeoPostMessage">
+    <iframe class="youtube-player" id="yt-239058" src="https://www.youtube.com/embed/7mHzc6l6hlQ?rel=0&amp;wmode=transparent&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+
+</div>
+</section></div><div class="zoogle-feature block layout_full" data-block-id="14187788"><section class="feature video_feature " data-feature-id="773731">    <div class="video responsive youtube" data-controller="zoogle-video" data-action="message@window-&gt;zoogle-video#handleVimeoPostMessage">
+    <iframe class="youtube-player" id="yt-773731" src="https://www.youtube.com/embed/mNQnWlZbxfk?rel=0&amp;wmode=transparent&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+
+</div>
+</section></div></div></div></div><div class="zoogle-columns zoogle-columns-1 zoogle-columns-100 default-section-style padding-small title-alignment-center block block-row layout_full" data-row-id="12368018"><div class="zoogle-columns-inner site-wrap"><div class="zoogle-column zoogle-column-1-of-1 col_1_of_1 block layout_full" data-column-id="14635559"><div class="zoogle-feature block layout_full" data-block-id="15047325"><section class="feature html_feature " data-feature-id="608844">  <div data-controller="zoogle-video" data-action="message@window-&gt;zoogle-video#handleVimeoPostMessage">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5pS7CzxL3co" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></section></div><div class="zoogle-feature block layout_full" data-block-id="15303216"><section class="feature video_feature " data-feature-id="858928">    <div class="video responsive youtube" data-controller="zoogle-video" data-action="message@window-&gt;zoogle-video#handleVimeoPostMessage">
+    <iframe class="youtube-player" id="yt-858928" src="https://www.youtube.com/embed/1JvoBKeHWJY?rel=0&amp;wmode=transparent&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+
+</div>
+</section></div></div></div></div><div class="zoogle-columns zoogle-columns-2 zoogle-columns-50-50 style-section-style-1 padding-none title-alignment-center block block-row layout_full" data-row-id="4005478"><div class="zoogle-columns-inner site-wrap"><div class="zoogle-column zoogle-column-1-of-2 col_1_of_2 block layout_half" data-column-id="10794563"><div class="zoogle-feature block layout_full" data-block-id="10682191"><section class="feature my_site_feature " data-feature-id="579417">  <ul class="my_sites -align-center my_sites_font_face my_sites_count_6 -theme-button-color my_sites_page_feature" style="--my-sites-feature-size: 20px;">
+      <li class="facebook">
+          <a class="icon facebook" target="_blank" title="https://www.facebook.com/mariangeorgiouofficialpage/" href="https://www.facebook.com/mariangeorgiouofficialpage/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 18" class="icon"><path fill-rule="evenodd" d="M1.907 18V8.999H0V5.897h1.907V4.035C1.907 1.505 2.984 0 6.044 0h2.547v3.103H7c-1.191 0-1.27.433-1.27 1.242l-.005 1.552h2.885L8.27 9H5.724V18H1.907z"></path></svg>
+</a>
+</li>      <li class="instagram">
+          <a class="icon instagram" target="_blank" title="https://instagram.com/mariangeorgiou" href="https://instagram.com/mariangeorgiou"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" class="icon"><path fill-rule="evenodd" d="M6.955 1.628l2.582-.006c1.916.001 2.227.012 3.1.052.877.04 1.354.187 1.67.31.421.163.72.358 1.036.673.27.27.452.529.6.862l.073.173c.113.29.246.715.298 1.46l.03.627c.012.29.02.553.025.917l.01 2.842c-.002 1.915-.013 2.226-.053 3.099-.037.804-.163 1.272-.279 1.588l-.031.083c-.163.42-.358.72-.673 1.035-.315.315-.615.51-1.035.673-.29.113-.715.246-1.46.298l-1.21.05c-.344.007-.761.011-1.428.013l-3.255-.005a37.01 37.01 0 01-1.592-.046c-.877-.04-1.354-.187-1.67-.31a2.788 2.788 0 01-1.036-.673 2.788 2.788 0 01-.673-1.035c-.113-.29-.246-.715-.298-1.46l-.05-1.21a71.292 71.292 0 01-.013-1.428l.005-3.255c.006-.692.02-1.022.046-1.592.04-.877.187-1.354.31-1.67.163-.421.358-.72.673-1.036.315-.315.615-.51 1.035-.673.29-.113.715-.246 1.46-.298l.627-.03c.355-.015.668-.023 1.176-.028zM6.97.006h4.06c.747.007 1.09.021 1.68.048.959.044 1.613.196 2.185.419.592.23 1.094.537 1.594 1.038.5.5.808 1.002 1.038 1.594.198.509.34 1.082.4 1.876l.035.68c.026.62.036 1.093.038 2.574l-.005 2.658c-.006.844-.02 1.192-.05 1.818-.043.958-.195 1.612-.418 2.184a4.412 4.412 0 01-1.038 1.594c-.5.5-1.002.809-1.594 1.039-.509.197-1.082.34-1.876.4l-.795.039c-.53.021-1.003.03-2.193.032l-2.924-.004a39.115 39.115 0 01-1.818-.05c-.958-.043-1.612-.195-2.184-.417a4.412 4.412 0 01-1.594-1.039c-.5-.5-.809-1.002-1.039-1.594-.197-.509-.34-1.082-.4-1.876l-.042-.876C.009 11.575 0 11.027 0 9.527L.006 6.97c.007-.747.021-1.09.048-1.68.044-.959.196-1.613.418-2.185A4.412 4.412 0 011.511 1.51c.5-.5 1.002-.808 1.594-1.038.509-.198 1.082-.34 1.876-.4L5.857.03C6.177.018 6.49.01 6.97.006zm2.048 4.387a4.625 4.625 0 100 9.25 4.625 4.625 0 000-9.25zm0 1.623a3.002 3.002 0 110 6.004 3.002 3.002 0 010-6.004zm4.768-2.909a1.071 1.071 0 100 2.143 1.071 1.071 0 000-2.143z"></path></svg>
+</a>
+</li>      <li class="bandsintown">
+          <a class="icon bandsintown" target="_blank" title="https://www.bandsintown.com/en/a/3657520-marian-georgiou" href="https://www.bandsintown.com/en/a/3657520-marian-georgiou"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" class="icon"><path d="M3.927 0v14.056h8.953v-.475H4.4V9.633h12.719V18H0V0h3.927zm13.195 0v9.158h-3.927V0h3.927zm-4.4 4.422v4.736H8.796V4.422h3.928zm-4.399 0v4.736H4.4V4.422h3.924z"></path></svg>
+</a>
+</li>      <li class="spotify">
+          <a class="icon spotify" target="_blank" title="https://open.spotify.com/artist/030E0bCe70JeLzmnq28BOz" href="https://open.spotify.com/artist/030E0bCe70JeLzmnq28BOz"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" class="icon"><path d="M9 0c1.242 0 2.414.234 3.516.703a8.832 8.832 0 012.865 1.934 9.3 9.3 0 011.916 2.847A8.885 8.885 0 0118 9a8.797 8.797 0 01-.703 3.48 8.832 8.832 0 01-1.934 2.866 9.185 9.185 0 01-2.883 1.916A8.28 8.28 0 019 18a8.28 8.28 0 01-3.48-.738 9.185 9.185 0 01-2.883-1.916A8.832 8.832 0 01.703 12.48 8.797 8.797 0 010 9c0-1.242.234-2.414.703-3.516a9.146 9.146 0 011.934-2.847A9.036 9.036 0 015.52.703 8.633 8.633 0 019 0zm-.053 10.898c-1.465-.164-3.052-.046-4.763.352a.477.477 0 00-.334.229.518.518 0 00-.053.439c.023.14.1.252.228.334.104.066.218.09.344.073l.096-.02c1.57-.352 3.017-.457 4.342-.317 1.324.14 2.513.54 3.568 1.196.14.07.281.087.422.052a.592.592 0 00.351-.263.528.528 0 00.053-.405.472.472 0 00-.299-.334c-1.172-.726-2.49-1.171-3.955-1.336zm.211-2.9c-1.863-.223-3.615-.088-5.256.404a.576.576 0 00-.369.334.74.74 0 00-.073.411l.02.1a.49.49 0 00.3.403c.175.082.357.1.544.053 1.406-.445 2.947-.568 4.623-.369 1.676.2 3.123.662 4.342 1.389.14.117.305.152.492.105a.78.78 0 00.457-.316.689.689 0 00.07-.528c-.046-.187-.14-.316-.28-.386-1.383-.844-3.007-1.377-4.87-1.6zm.07-3.094a21.718 21.718 0 00-3.146-.017c-1.008.093-1.91.258-2.707.492a.81.81 0 00-.475.404.83.83 0 00-.052.65c.07.188.199.34.386.458a.74.74 0 00.633.07c.68-.211 1.477-.363 2.39-.457a16.95 16.95 0 012.778.017c.961.083 1.899.24 2.813.475a9.645 9.645 0 012.46.984c.212.118.434.153.669.106.234-.047.398-.152.492-.316a.85.85 0 00.088-.65.798.798 0 00-.405-.51 10.987 10.987 0 00-2.777-1.16 16.84 16.84 0 00-3.146-.546z"></path></svg>
+</a>
+</li>      <li class="twitter">
+          <a class="icon twitter" target="_blank" title="https://twitter.com/mariangeorgiou" href="https://twitter.com/mariangeorgiou"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 16" class="icon"><path fill-rule="evenodd" d="M15.88 2.44A3.866 3.866 0 0017.502.284a7.162 7.162 0 01-2.345.945A3.595 3.595 0 0012.462 0C10.422 0 8.77 1.744 8.77 3.894c0 .306.03.603.094.887C5.796 4.62 3.076 3.07 1.253.712a4.05 4.05 0 00-.5 1.959c0 1.35.652 2.543 1.643 3.243a3.56 3.56 0 01-1.673-.487v.048c0 1.887 1.272 3.462 2.963 3.818-.31.092-.636.137-.974.137-.238 0-.47-.023-.694-.069.47 1.547 1.833 2.675 3.45 2.705A7.17 7.17 0 010 13.679a10.07 10.07 0 005.66 1.75c6.794 0 10.507-5.935 10.507-11.082 0-.17-.002-.338-.01-.504A7.72 7.72 0 0018 1.826c-.662.31-1.375.52-2.12.613z"></path></svg>
+</a>
+</li>      <li class="youtube">
+          <a class="icon youtube" target="_blank" title="https://www.youtube.com/user/apostolis115" href="https://www.youtube.com/user/apostolis115"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 14" class="icon"><path d="M7.518.011l1.81-.01c.971.004 3.89.03 5.972.173l.355.05c.394.061.95.209 1.445.76.463.478.66 1.426.714 1.746l.017.108s.155 1.378.168 2.816L18 7.241c0 .654-.032 1.31-.068 1.84l-.1 1.172s-.17 1.274-.732 1.853c-.675.753-1.463.753-1.8.811l-.537.033c-2.11.12-4.778.138-5.547.14l-2.132-.03c-1.465-.029-3.372-.076-4.215-.143-.394-.116-1.294-.058-1.969-.81-.43-.444-.63-1.293-.7-1.668l-.031-.186S.014 8.875 0 7.437V5.654l.007-.39c.012-.45.035-.883.06-1.254l.1-1.172S.339 1.564.9.985C1.575.232 2.362.232 2.7.174l.75-.045C4.827.057 6.4.025 7.518.01zm-.973 3.262v6.545l6.546-3.273-6.546-3.272z"></path></svg>
+</a>
+</li></ul></section></div><div class="zoogle-feature block layout_full" data-block-id="10682179"><section class="feature twitter_feature " data-feature-id="28624">
+    <div class="twitter_feed set-twitter-height">
+      <a class="twitter-timeline"
+        data-height="600"
+        data-theme="dark"
+        data-link-color="#4a90e2"
+        href="https://twitter.com/mariangeorgiou?ref_src=twsrc%5Etfw">Tweets by mariangeorgiou</a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+</section></div></div><div class="zoogle-column zoogle-column-2-of-2 col_2_of_2 block layout_half" data-column-id="14209344"><div class="zoogle-feature block layout_full" data-block-id="14670715"><section class="feature image_feature " data-feature-id="1510493">    <figure class="image custom center" style="width: 100%;">
+        <a target="_blank" href="https://www.areanapoli.it/interviste/georgiou-amo-napoli-e-la-sua-musica-vorrei-cantare--abbracciame--in-duetto-con-sannino_375896.html"><span class="image-filter-container filter-darken-container shape-custom"><img sizes="(max-width: 500px) 100vw, 50vw" srcset="//imagery.zoogletools.com/u/140349/163a320e16d40ae64dfec609ee1ef508b89b3c37/original/104497075-10217240886474963-9183192964508403609-n.jpg/!!/b%3AW1sicmVzaXplIiw0ODBdLFsibWF4Il0sWyJ3ZSJdXQ%3D%3D.jpg 480w" class="filter-darken" src="//imagery.zoogletools.com/u/140349/163a320e16d40ae64dfec609ee1ef508b89b3c37/original/104497075-10217240886474963-9183192964508403609-n.jpg/!!/b%3AW1sicmVzaXplIiw0ODBdLFsibWF4Il0sWyJ3ZSJdXQ%3D%3D.jpg" /><span class="image-filter-overlay" style=""></span></span></a>
+
+</figure>
+</section></div></div></div></div></div></div>
+
+		</div>
+	</div>
+
+	<div id="footer-wrap">
+
+  <footer class="site-wide-footer"><div class="zoogle-content block" data-arrangement-id="3322634"><div class="zoogle-columns zoogle-columns-1 zoogle-columns-100 default-section-style padding-none title-alignment-left block block-row layout_full" data-row-id="10110984"><div class="zoogle-columns-inner site-wrap"><div class="zoogle-column zoogle-column-1-of-1 col_1_of_1 block layout_full" data-column-id="11984563"></div></div><div class="zoogle-columns-inner site-wrap">  <div class="injected-footer">
+  <footer id="page-footer">
+
+
+    <div class="block layout_full"><section class="feature text_feature " data-feature-id="601303"><div data-controller="zoogle-video" data-action="message@window->zoogle-video#handleVimeoPostMessage"><p>© 2020 Marian Georgiou Official Site. All Rights Reserved.</p></div></section></div>
+
+
+
+
+    
+<nav><ul></ul></nav>
+
+      <div class="branding text-tertiary">
+    <small>
+      <a title="Powered by Bandzoogle" target="_blank" rel="nofollow" href="https://bandzoogle.com/">Powered by Bandzoogle</a>
+    </small>
+  </div>
+
+  </footer>
+</div>
+
+
+</div></div></div></footer>
+</div>
+</div>
+
+</div>
+
+		</div>
+		<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-32665918-1"></script>
+<script>
+  window.GA_TRACKING_CODE = 'UA-32665918-1';
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', window.GA_TRACKING_CODE, { 'anonymize_ip': true });
+</script>
+<script type="text/javascript">
+var _zaq = _zaq || [];
+var dntStatus = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+var dontTrack = dntStatus === true || dntStatus === "1";
+if ( ! dontTrack ) {
+  _zaq.push(['_setWebsite', '142560']);
+  _zaq.push(['_setZone', 'Athens']);
+  _zaq.push(['_setHash', '02011e6de566482e58353bea8030bcfd']);
+  _zaq.push(['_trackPage', '986618']);
+
+  (function() {
+    var zs = document.createElement('script'); zs.type = 'text/javascript'; zs.async = true;
+    zs.src = "https://stats.zoogletools.net/stats.js?v=1";
+    zs.id = "zstats";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(zs, s);
+  })();
+}
+</script>
+
+		
+    <footer id="sticky-footer"><div class="block layout_full"><section class="feature music_feature " data-feature-id="121341">  <article class="music-player display-swmp is-classic" data-album-id="184120">
+    
+
+<div class="details zoogle-music-player with-track-artist continue-on-exit " data-loop-playlist="true" data-shuffle="false" data-controller="zoogle-media-player">
+  <div class="player-extra">
+      <header class="swmp-header">
+    <span data-target="album-artwork-background" class="album-artwork-background"></span>
+    <div class="swmp-header-inner">
+      <p class="title" data-target="player-title"></p>
+      <p class="by-artist ellipsis" data-target="artist"></p>
+
+      <div class="actions">
+        <div class="action">
+        </div>
+      </div>
+
+      <div class="album-artwork">
+        <img data-target="album-artwork" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" class="notes-icon"><title>notes</title><path d="M1.707 29.747q.48 1.48 2.293 2.107t3.933-.027q1.72-.56 2.86-1.673T12 28.001V11.014l14.667-3.907v13.067q-1.587-.387-3.693.293-2.093.68-3.253 2.247t-.68 3.033q.48 1.48 2.293 2.107t3.933-.027q1.72-.547 2.86-1.667T29.334 24V.52q0-.28-.187-.42t-.453-.073l-18.72 4.92q-.267.08-.453.327t-.187.527v18.373q-1.56-.4-3.693.293-2.093.68-3.253 2.247t-.68 3.033z"></path></svg>
+
+      </div>
+
+      <div class="player-nav">
+  <nav class="track-nav">
+      <a href="#" class="button-action button-action-secondary previous-button text-main " title="Previous track">
+  <i class="icon icon-first"></i>
+</a>
+
+      <div class="player-play">
+  <a href="#" class="button button-circle button-action play-button ">
+    <span class="icon icon-play" title="Play"></span>
+    <span class="icon icon-pause" title="Pause"></span>
+  </a>
+</div>
+
+      <a href="#" class="button-action button-action-secondary next-button text-main " title="Next track">
+  <i class="icon icon-last"></i>
+</a>
+
+  </nav>
+</div>
+
+
+      <div class="progress-wrap">
+        <div class="progress bg-accent"><div class="position bg-main"></div><span class="player-time time text-tertiary"><span class="cur">0:00</span><span class="sep">/</span><span class="duration">???</span></span></div>
+      </div>
+
+      <a href="#" class="swmp-toggle-expand">
+        <span class="icon icon-close"></span>
+      </a>
+    </div>
+  </header>
+
+      <ol class="track-list" data-offset="20" data-load-more="false">
+  
+<li
+  class="border-accent bg-accent-slight-hover clearfix track-list-item"
+  data-album-image-url=""
+>
+  <div class="track-number-play">
+    <a type="audio/mp3" data-id="1165256" data-artist="Marian Georgiou Ft Francesco" data-duration="3:22" data-title="Roma - Atene (Greek-Italian version)" data-category="Previews" data-dest="/player/121341/tracks/1165256.mp3" class="track-icon track-icon-play button button-circle play play" href="#">
+      <span class="icon icon-play" title="Play"></span>
+      <span class="icon icon-pause" title="Pause"></span>
+</a>    <span class="track-number">
+      1
+    </span>
+    <span class="track-icon track-icon-playing icon icon-volume-medium"></span>
+  </div>
+  <div class="track-title">
+    <span class="track-title-inner">
+      <a class="text-main" title="Roma - Atene (Greek-Italian version)" href="https://www.georgioumarian.com/track/1165256/roma-atene-greek-italian-version">
+        <span class="title">Roma - Atene (Greek-Italian version)</span>
+</a>      <span class="duration text-tertiary">3:22</span>
+    </span>
+  </div>
+
+  <div class="track-social">
+      <a class="button button-tertiary zoogle-share button-tertiary button-small" title="Share Roma - Atene (Greek-Italian version)" data-byline="by Marian Georgiou Ft Francesco" data-artist="Marian Georgiou Ft Francesco" data-link-text="" data-title="Roma - Atene (Greek-Italian version)" data-text="Check out this awesome track: Roma - Atene (Greek-Italian version) by Marian Georgiou Ft Francesco" data-extra-class="button-tertiary button-small" data-url="https://www.georgioumarian.com/track/1165256/roma-atene-greek-italian-version" data-twitter-url="https://bandzoogle.com/tracks/140349/2266894911/1165256.html" data-button-class="button button-tertiary" data-share-icon="true" data-fb-app-id="286076425227" href="https://www.georgioumarian.com/track/1165256/roma-atene-greek-italian-version"><i class="icon-share"></i></a>
+  </div>
+
+    <div class="track-lyric-link">
+      <a class="lyrics button button-tertiary button-small" target="_self" href="https://www.georgioumarian.com/track/1165256/roma-atene-greek-italian-version">
+        <span>Info</span>
+</a>    </div>
+  <div class="track-action">
+      
+
+
+  </div>
+  <div class="progress bg-accent"><div class="position bg-main"></div><span class="player-time time text-tertiary"><span class="cur">0:00</span><span class="sep">/</span><span class="duration">3:22</span></span></div>
+</li>
+
+<li
+  class="border-accent bg-accent-slight-hover clearfix track-list-item"
+  data-album-image-url=""
+>
+  <div class="track-number-play">
+    <a type="audio/mp3" data-id="1161959" data-artist="Marian Georgiou Ft Francesco" data-duration="3:22" data-title="Roma - Atene (Italian version)" data-category="Previews" data-dest="/player/121341/tracks/1161959.mp3" class="track-icon track-icon-play button button-circle play play" href="#">
+      <span class="icon icon-play" title="Play"></span>
+      <span class="icon icon-pause" title="Pause"></span>
+</a>    <span class="track-number">
+      2
+    </span>
+    <span class="track-icon track-icon-playing icon icon-volume-medium"></span>
+  </div>
+  <div class="track-title">
+    <span class="track-title-inner">
+      <a class="text-main" title="Roma - Atene (Italian version)" href="https://www.georgioumarian.com/track/1161959/roma-atene-italian-version">
+        <span class="title">Roma - Atene (Italian version)</span>
+</a>      <span class="duration text-tertiary">3:22</span>
+    </span>
+  </div>
+
+  <div class="track-social">
+      <a class="button button-tertiary zoogle-share button-tertiary button-small" title="Share Roma - Atene (Italian version)" data-byline="by Marian Georgiou Ft Francesco" data-artist="Marian Georgiou Ft Francesco" data-link-text="" data-title="Roma - Atene (Italian version)" data-text="Check out this awesome track: Roma - Atene (Italian version) by Marian Georgiou Ft Francesco" data-extra-class="button-tertiary button-small" data-url="https://www.georgioumarian.com/track/1161959/roma-atene-italian-version" data-twitter-url="https://bandzoogle.com/tracks/140349/2337227647/1161959.html" data-button-class="button button-tertiary" data-share-icon="true" data-fb-app-id="286076425227" href="https://www.georgioumarian.com/track/1161959/roma-atene-italian-version"><i class="icon-share"></i></a>
+  </div>
+
+    <div class="track-lyric-link">
+      <a class="lyrics button button-tertiary button-small" target="_self" href="https://www.georgioumarian.com/track/1161959/roma-atene-italian-version">
+        <span>Info</span>
+</a>    </div>
+  <div class="track-action">
+      
+
+
+  </div>
+  <div class="progress bg-accent"><div class="position bg-main"></div><span class="player-time time text-tertiary"><span class="cur">0:00</span><span class="sep">/</span><span class="duration">3:22</span></span></div>
+</li>
+
+<li
+  class="border-accent bg-accent-slight-hover clearfix track-list-item"
+  data-album-image-url=""
+>
+  <div class="track-number-play">
+    <a type="audio/mp3" data-id="1717265" data-artist="Marian Georgiou (Music &amp; Lyrics: Marian Georgiou)" data-duration="4:13" data-title="ΤΕΛΟΣ &amp; ΑΡΧΗ  " data-category="Previews" data-dest="/player/121341/tracks/1717265.mp3" class="track-icon track-icon-play button button-circle play play" href="#">
+      <span class="icon icon-play" title="Play"></span>
+      <span class="icon icon-pause" title="Pause"></span>
+</a>    <span class="track-number">
+      3
+    </span>
+    <span class="track-icon track-icon-playing icon icon-volume-medium"></span>
+  </div>
+  <div class="track-title">
+    <span class="track-title-inner">
+      <a class="text-main" title="ΤΕΛΟΣ &amp; ΑΡΧΗ  " href="https://www.georgioumarian.com/track/1717265">
+        <span class="title">ΤΕΛΟΣ &amp; ΑΡΧΗ  </span>
+</a>      <span class="duration text-tertiary">4:13</span>
+    </span>
+  </div>
+
+  <div class="track-social">
+      <a class="button button-tertiary zoogle-share button-tertiary button-small" title="Share ΤΕΛΟΣ &amp; ΑΡΧΗ  " data-byline="by Marian Georgiou (Music &amp; Lyrics: Marian Georgiou)" data-artist="Marian Georgiou (Music &amp; Lyrics: Marian Georgiou)" data-link-text="" data-title="ΤΕΛΟΣ &amp; ΑΡΧΗ  " data-text="Check out this awesome track: ΤΕΛΟΣ &amp; ΑΡΧΗ   by Marian Georgiou (Music &amp; Lyrics: Marian Georgiou)" data-extra-class="button-tertiary button-small" data-url="https://www.georgioumarian.com/track/1717265" data-twitter-url="https://bandzoogle.com/tracks/140349/365028925/1717265.html" data-button-class="button button-tertiary" data-share-icon="true" data-fb-app-id="286076425227" href="https://www.georgioumarian.com/track/1717265"><i class="icon-share"></i></a>
+  </div>
+
+  <div class="track-action">
+      
+
+
+  </div>
+  <div class="progress bg-accent"><div class="position bg-main"></div><span class="player-time time text-tertiary"><span class="cur">0:00</span><span class="sep">/</span><span class="duration">4:13</span></span></div>
+</li>
+
+<li
+  class="border-accent bg-accent-slight-hover clearfix track-list-item"
+  data-album-image-url=""
+>
+  <div class="track-number-play">
+    <a type="audio/mp3" data-id="751626" data-artist="Marian Georgiou" data-duration="4:07" data-title="Io volo - Marian Georgiou" data-category="Previews" data-dest="/player/121341/tracks/751626.mp3" class="track-icon track-icon-play button button-circle play play" href="#">
+      <span class="icon icon-play" title="Play"></span>
+      <span class="icon icon-pause" title="Pause"></span>
+</a>    <span class="track-number">
+      4
+    </span>
+    <span class="track-icon track-icon-playing icon icon-volume-medium"></span>
+  </div>
+  <div class="track-title">
+    <span class="track-title-inner">
+      <a class="text-main" title="Io volo - Marian Georgiou" href="https://www.georgioumarian.com/track/751626/io-volo-marian-georgiou">
+        <span class="title">Io volo - Marian Georgiou</span>
+</a>      <span class="duration text-tertiary">4:07</span>
+    </span>
+  </div>
+
+  <div class="track-social">
+      <a class="button button-tertiary zoogle-share button-tertiary button-small" title="Share Io volo - Marian Georgiou" data-byline="by Marian Georgiou" data-artist="Marian Georgiou" data-link-text="" data-title="Io volo - Marian Georgiou" data-text="Check out this awesome track: Io volo - Marian Georgiou by Marian Georgiou" data-extra-class="button-tertiary button-small" data-url="https://www.georgioumarian.com/track/751626/io-volo-marian-georgiou" data-twitter-url="https://bandzoogle.com/tracks/140349/457769074/751626.html" data-button-class="button button-tertiary" data-share-icon="true" data-fb-app-id="286076425227" href="https://www.georgioumarian.com/track/751626/io-volo-marian-georgiou"><i class="icon-share"></i></a>
+  </div>
+
+    <div class="track-lyric-link">
+      <a class="lyrics button button-tertiary button-small" target="_self" href="https://www.georgioumarian.com/track/751626/io-volo-marian-georgiou">
+        <span>Info</span>
+</a>    </div>
+  <div class="track-action">
+      
+
+
+  </div>
+  <div class="progress bg-accent"><div class="position bg-main"></div><span class="player-time time text-tertiary"><span class="cur">0:00</span><span class="sep">/</span><span class="duration">4:07</span></span></div>
+</li>
+
+<li
+  class="border-accent bg-accent-slight-hover clearfix track-list-item"
+  data-album-image-url=""
+>
+  <div class="track-number-play">
+    <a type="audio/mp3" data-id="751620" data-artist="Marian Georgiou Feat. Roberto Casalino" data-duration="3:51" data-title="Abbracciami (Italian version)" data-category="Previews" data-dest="/player/121341/tracks/751620.mp3" class="track-icon track-icon-play button button-circle play play" href="#">
+      <span class="icon icon-play" title="Play"></span>
+      <span class="icon icon-pause" title="Pause"></span>
+</a>    <span class="track-number">
+      5
+    </span>
+    <span class="track-icon track-icon-playing icon icon-volume-medium"></span>
+  </div>
+  <div class="track-title">
+    <span class="track-title-inner">
+      <a class="text-main" title="Abbracciami (Italian version)" href="https://www.georgioumarian.com/track/751620/abbracciami-italian-version">
+        <span class="title">Abbracciami (Italian version)</span>
+</a>      <span class="duration text-tertiary">3:51</span>
+    </span>
+  </div>
+
+  <div class="track-social">
+      <a class="button button-tertiary zoogle-share button-tertiary button-small" title="Share Abbracciami (Italian version)" data-byline="by Marian Georgiou Feat. Roberto Casalino" data-artist="Marian Georgiou Feat. Roberto Casalino" data-link-text="" data-title="Abbracciami (Italian version)" data-text="Check out this awesome track: Abbracciami (Italian version) by Marian Georgiou Feat. Roberto Casalino" data-extra-class="button-tertiary button-small" data-url="https://www.georgioumarian.com/track/751620/abbracciami-italian-version" data-twitter-url="https://bandzoogle.com/tracks/140349/1728987077/751620.html" data-button-class="button button-tertiary" data-share-icon="true" data-fb-app-id="286076425227" href="https://www.georgioumarian.com/track/751620/abbracciami-italian-version"><i class="icon-share"></i></a>
+  </div>
+
+    <div class="track-lyric-link">
+      <a class="lyrics button button-tertiary button-small" target="_self" href="https://www.georgioumarian.com/track/751620/abbracciami-italian-version">
+        <span>Info</span>
+</a>    </div>
+  <div class="track-action">
+      
+
+        <form data-item-id="751620" data-item-type="Track" data-requires-checkout="false" data-possibly-free-download="false" class="track salable-item not-in-cart available without-quantity in-stock" autocomplete="off" action="/go/cart/cart_items" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input value="751620" type="hidden" name="cart_item[item_id]" /><input value="Track" type="hidden" name="cart_item[item_type]" />
+
+        <button name="button" type="submit" class="button add-to-cart sale-price" rel="nofollow"><span class="sale-tag-text">Sale</span><span class="old-price lighter">&euro;1.98</span>&euro;0.99</button>
+        		<a class="button if-in-cart">In cart</a>
+		<em class="unless-available text-secondary">Not available</em>
+		<em class="if-out-of-stock text-secondary">Out of stock</em>
+
+</form>
+
+  </div>
+  <div class="progress bg-accent"><div class="position bg-main"></div><span class="player-time time text-tertiary"><span class="cur">0:00</span><span class="sep">/</span><span class="duration">3:51</span></span></div>
+</li>
+
+<li
+  class="border-accent bg-accent-slight-hover clearfix track-list-item"
+  data-album-image-url=""
+>
+  <div class="track-number-play">
+    <a type="audio/mp3" data-id="1726161" data-artist="Marian Georgiou" data-duration="3:48" data-title="November" data-category="Previews" data-dest="/player/121341/tracks/1726161.mp3" class="track-icon track-icon-play button button-circle play play" href="#">
+      <span class="icon icon-play" title="Play"></span>
+      <span class="icon icon-pause" title="Pause"></span>
+</a>    <span class="track-number">
+      6
+    </span>
+    <span class="track-icon track-icon-playing icon icon-volume-medium"></span>
+  </div>
+  <div class="track-title">
+    <span class="track-title-inner">
+      <a class="text-main" title="November" href="https://www.georgioumarian.com/track/1726161/november">
+        <span class="title">November</span>
+</a>      <span class="duration text-tertiary">3:48</span>
+    </span>
+  </div>
+
+  <div class="track-social">
+      <a class="button button-tertiary zoogle-share button-tertiary button-small" title="Share November" data-byline="by Marian Georgiou" data-artist="Marian Georgiou" data-link-text="" data-title="November" data-text="Check out this awesome track: November by Marian Georgiou" data-extra-class="button-tertiary button-small" data-url="https://www.georgioumarian.com/track/1726161/november" data-twitter-url="https://bandzoogle.com/tracks/140349/2144396953/1726161.html" data-button-class="button button-tertiary" data-share-icon="true" data-fb-app-id="286076425227" href="https://www.georgioumarian.com/track/1726161/november"><i class="icon-share"></i></a>
+  </div>
+
+  <div class="track-action">
+      
+
+
+  </div>
+  <div class="progress bg-accent"><div class="position bg-main"></div><span class="player-time time text-tertiary"><span class="cur">0:00</span><span class="sep">/</span><span class="duration">3:48</span></span></div>
+</li>
+
+<li
+  class="border-accent bg-accent-slight-hover clearfix track-list-item"
+  data-album-image-url=""
+>
+  <div class="track-number-play">
+    <a type="audio/mp3" data-id="1726157" data-artist="Marian Georgiou" data-duration="3:03" data-title="Heartbeat" data-category="Previews" data-dest="/player/121341/tracks/1726157.mp3" class="track-icon track-icon-play button button-circle play play" href="#">
+      <span class="icon icon-play" title="Play"></span>
+      <span class="icon icon-pause" title="Pause"></span>
+</a>    <span class="track-number">
+      7
+    </span>
+    <span class="track-icon track-icon-playing icon icon-volume-medium"></span>
+  </div>
+  <div class="track-title">
+    <span class="track-title-inner">
+      <a class="text-main" title="Heartbeat" href="https://www.georgioumarian.com/track/1726157/heartbeat">
+        <span class="title">Heartbeat</span>
+</a>      <span class="duration text-tertiary">3:03</span>
+    </span>
+  </div>
+
+  <div class="track-social">
+      <a class="button button-tertiary zoogle-share button-tertiary button-small" title="Share Heartbeat" data-byline="by Marian Georgiou" data-artist="Marian Georgiou" data-link-text="" data-title="Heartbeat" data-text="Check out this awesome track: Heartbeat by Marian Georgiou" data-extra-class="button-tertiary button-small" data-url="https://www.georgioumarian.com/track/1726157/heartbeat" data-twitter-url="https://bandzoogle.com/tracks/140349/690710950/1726157.html" data-button-class="button button-tertiary" data-share-icon="true" data-fb-app-id="286076425227" href="https://www.georgioumarian.com/track/1726157/heartbeat"><i class="icon-share"></i></a>
+  </div>
+
+  <div class="track-action">
+      
+
+
+  </div>
+  <div class="progress bg-accent"><div class="position bg-main"></div><span class="player-time time text-tertiary"><span class="cur">0:00</span><span class="sep">/</span><span class="duration">3:03</span></span></div>
+</li>
+
+<li
+  class="border-accent bg-accent-slight-hover clearfix track-list-item"
+  data-album-image-url=""
+>
+  <div class="track-number-play">
+    <a type="audio/mp3" data-id="638066" data-artist="Marian Georgiou Feat. Josh Page (Forte)" data-duration="4:27" data-title="Vero (Italian version)" data-category="Previews" data-dest="/player/121341/tracks/638066.mp3" class="track-icon track-icon-play button button-circle play play" href="#">
+      <span class="icon icon-play" title="Play"></span>
+      <span class="icon icon-pause" title="Pause"></span>
+</a>    <span class="track-number">
+      8
+    </span>
+    <span class="track-icon track-icon-playing icon icon-volume-medium"></span>
+  </div>
+  <div class="track-title">
+    <span class="track-title-inner">
+      <a class="text-main" title="Vero (Italian version)" href="https://www.georgioumarian.com/track/638066/vero-italian-version">
+        <span class="title">Vero (Italian version)</span>
+</a>      <span class="duration text-tertiary">4:27</span>
+    </span>
+  </div>
+
+  <div class="track-social">
+      <a class="button button-tertiary zoogle-share button-tertiary button-small" title="Share Vero (Italian version)" data-byline="by Marian Georgiou Feat. Josh Page (Forte)" data-artist="Marian Georgiou Feat. Josh Page (Forte)" data-link-text="" data-title="Vero (Italian version)" data-text="Check out this awesome track: Vero (Italian version) by Marian Georgiou Feat. Josh Page (Forte)" data-extra-class="button-tertiary button-small" data-url="https://www.georgioumarian.com/track/638066/vero-italian-version" data-twitter-url="https://bandzoogle.com/tracks/140349/498701000/638066.html" data-button-class="button button-tertiary" data-share-icon="true" data-fb-app-id="286076425227" href="https://www.georgioumarian.com/track/638066/vero-italian-version"><i class="icon-share"></i></a>
+  </div>
+
+  <div class="track-action">
+      
+
+        <form data-item-id="638066" data-item-type="Track" data-requires-checkout="false" data-possibly-free-download="false" class="track salable-item not-in-cart available without-quantity in-stock" autocomplete="off" action="/go/cart/cart_items" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input value="638066" type="hidden" name="cart_item[item_id]" /><input value="Track" type="hidden" name="cart_item[item_type]" />
+
+        <button name="button" type="submit" class="button add-to-cart" rel="nofollow">&euro;0.99</button>
+        		<a class="button if-in-cart">In cart</a>
+		<em class="unless-available text-secondary">Not available</em>
+		<em class="if-out-of-stock text-secondary">Out of stock</em>
+
+</form>
+
+  </div>
+  <div class="progress bg-accent"><div class="position bg-main"></div><span class="player-time time text-tertiary"><span class="cur">0:00</span><span class="sep">/</span><span class="duration">4:27</span></span></div>
+</li>
+
+</ol>
+  </div>
+
+  <div class="player" data-album-id="184120">
+    <header>
+      <div class="controls">
+        <div class="player-play">
+  <a href="#" class="button button-circle button-action play-button ">
+    <span class="icon icon-play" title="Play"></span>
+    <span class="icon icon-pause" title="Pause"></span>
+  </a>
+</div>
+
+        <div class="player-track track">
+          <div class="player-track-inner">
+            <div class="player-title">
+              <div class="marquee-wrap">
+                <div class="marquee title text-main alt-font" data-action="resize@window->zoogle-media-player#resizeApplyMarquee" data-target="player-title"></div>
+              </div>
+            </div>
+
+            <div class="player-artist">
+              <span class="by-artist ellipsis" data-target="artist"><span class="artist"></span></span>
+            </div>
+
+            <div class="actions">
+    <div class="share">
+        <div class="share-contents">
+            <div class="links"></div>
+        </div>
+    </div>
+
+    <div class="action">
+    </div>
+</div>
+
+
+          </div>
+        </div>
+
+        <div class="player-nav">
+  <nav class="track-nav">
+      <a href="#" class="button-action button-action-secondary previous-button text-main " title="Previous track">
+  <i class="icon icon-first"></i>
+</a>
+
+      <a href="#" class="button-action button-action-secondary next-button text-main " title="Next track">
+  <i class="icon icon-last"></i>
+</a>
+
+  </nav>
+</div>
+
+      </div>
+    </header>
+
+    <div class="progress bg-accent"><div class="position bg-main"></div><span class="player-time time text-tertiary"><span class="cur">0:00</span><span class="sep">/</span><span class="duration">???</span></span></div>
+
+
+  </div>
+
+</div>
+
+
+</article></section></div></footer>
+
+
+</div>
+  </div>
+</div>
+      
+
+</body></html>
